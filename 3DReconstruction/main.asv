@@ -1,0 +1,4 @@
+close all
+%SfM2({'handprint/1.jpg','handprint/2.jpg'},'handprint/intrinsic.new', 'handprint');
+imagePathHolder
+SfM2({'fountain/2.png', 'fountain/3.png', 'fountain/4.png', 'fountain/5.png', 'fountain/6.png', 'fountain/7.png', 'fountain/8.png', 'fountain/9.png'},'fountain/intrinsic.new', 'fountain');
